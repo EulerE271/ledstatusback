@@ -1,0 +1,48 @@
+"id";"name";"description";"weather";"status";"level";"rating";"start_coordinates";"end_coordinates";"img";"time_low";"time_max";"distance";"cabin";"avg_distance_min";"avg_distance_max"
+1;"Kungsleden";"<p><strong>Kungsleden</strong>, ofta förkärleksfullt benämnd som ""Kungens väg"", bjuder in till en vandring utöver det vanliga och är en av Sveriges mest berömda vandringsleder. Årligen sätter tusentals vandrare, både inhemska och internationella, sina fotspår längs dess varierande och storslagna terräng. Leden, som totalt sträcker sig cirka 440 kilometer, tar sin början i Abisko i norr och fortsätter hela vägen till Hemavan i söder.<br><br></p>
+
+<p>Den som vandrar längs Kungsleden får uppleva en resa genom några av Sveriges mest orörda och avlägsna vildmarksområden, och får det privilegiet att beträda fyra nationalparker: Abisko, Stora Sjöfallet, Sarek och Padjelanta. Varje steg bjuder på en nyans av det svenska fjällandskapet, från hisnande fjälltoppar och uråldriga glaciärer till mystiska, djupa skogar och sjöar som skimrar i midnattssolen.<br><br></p>
+
+<p>Medan stora delar av Kungsleden är tillgängliga och vänliga även mot den mindre erfarne vandraren, erbjuder den även sträckor som ställer större krav och välkomnar den mer erfarne äventyraren. Särskilt områdena kring Sarek, ofta omnämnda som ""Europas sista vildmark"", erbjuder utmaningar som är riktigt belönande för dem som vågar.<br><br></p>
+
+<p>En särskild juvel längs leden är <strong>Kebnekaise</strong>, Sveriges högsta berg. Det är inte ovanligt att vandrare väljer att ta en sidotripp från huvudleden för att bestiga denna ståtliga topp, som erbjuder en utsikt som få andra platser i världen kan mäta sig med.<br><br></p>
+
+<p>För de vandrare som önskar en mer bekväm övernattning längs vägen erbjuder Svenska Turistföreningen (STF) fjällstugor på strategiska och ofta mycket natursköna platser längs leden. Dessa stugor ger inte bara skydd mot elementen, utan också en chans till värdefull vila och möjligheten att möta andra vandrare.<br><br></p>
+
+<p>Kungsleden bjuder även på en kulturell resa, och erbjuder insikter i den samiska kulturen. Samerna, som i tusentals år har betat sina renar i dessa fjäll, har en närvaro som är både märkbar och betydelsefull. Många av de områden leden passerar är fortfarande viktiga betesområden för ren och håller en djup kulturell betydelse för samerna.<br><br></p>
+";"20";"Öppen";"avancerad";"5";"68.35791281368336, 18.778071979358558";"65.8156008319866, 15.08761677682016";"http://localhost:3001/images/kungsleden1.jpg";21;30;425;"STF";8;46
+2;"Padjelantaleden";"<p><strong>Padjelantaleden</strong>, framstående som en av Sveriges mest imponerande och isolerade vandringsrutter, står som en portal till en värld där naturens obefläckade skönhet framträder i all sin prakt. Denna vandringsled, inbäddad i norra Sveriges förtrollande landskap, slingrar sig genom den magnifika Padjelanta nationalpark, en juvel i Sveriges storslagna krona av naturskyddade områden.</p>
+
+<p>Att vandra längs Padjelantaleden är inte enbart en fysisk resa genom spektakulära landskap, utan även en själslig upptäckt där mötet med de vidsträckta, öppna fjällen och den tysta ensamheten ger utrymme för reflektion och förundran inför naturens storhet. Det är en plats där varje steg tar vandraren djupare in i hjärtat av den svenska vildmarken, och erbjuder en ovärderlig möjlighet att andas, utforska och bli ett med naturen.</p>
+";"12";"Stängd";"Avancerad";"5";"66.94602940560632, 17.65290960573335";"66.95368668047877, 17.719818758262736";"http://localhost:3001/images/italy.jpg";9;10;160;"STF";0;0
+3;"Healgsfjället";"<p><strong>Helags</strong>, även känt som <strong>Helagsfjället</strong>, bjuder inte bara på en av Sveriges mest ikoniska fjälltoppar, utan också på en oslagbar naturupplevelse. Detta majestätiska fjäll, beläget i hjärtat av Jämtlands län i norra Sverige, ståtar med en del av den omfångsrika och imponerande fjällkedjan som korsar den skandinaviska halvön.</p>
+
+<p>Högt uppe där molnen dansar mot topparna, erbjuder Helags en unik kombination av storslagen natur, fascinerande vildmark och en fristad för de äventyrslystna. Att bege sig ut på dess sluttningar är mer än en vandring; det är en resa genom Sveriges otämjda skönhet och en chans att stifta bekantskap med landets rika naturliv.</p>
+";"9";"Öppen";"Nybörjare";"5";"62.89589733928996, 12.709728067810811";"62.91717303792679, 12.505997427424635";"http://localhost:3001/images/kungsleden3.jpg";2;3;56;"STF";12;12
+8;"Jämtlandstriangeln";"<p>Jämtlandstriangeln är en av Sveriges mest kända fjällvandringsleder, belägen i det fantastiska landskapet Jämtland, i norra delen av landet. Denna trekantformade led bildar en triangel med sina tre hörn i de charmiga fjällstationerna Storulvån, Sylarna och Blåhammaren, vilket också ger namnet ""Jämtlandstriangeln.""</p>
+<br><br>
+
+<p>Vandringen genom Jämtlandstriangeln erbjuder en rik blandning av upplevelser, som kombinerar den storslagna fjällnaturen med väl utvecklade vandringsleder och utmärkta övernattningsmöjligheter. Terrängen varierar från vidsträckta, mjukt rullande fjäll och lummiga dalar till skarpa klippor och mäktiga fjälltoppar. Vattnet i områdets många sjöar och strömmande bäckar är kristallklart, och landskapet bjuder på en fantastisk flora och fauna.</p>
+<br><br>
+
+<p>Den klassiska turen genom Jämtlandstriangeln sträcker sig över cirka 47 kilometer och är oftast fördelad över tre dagsetapper.</p>
+<br>
+
+<ul>
+    <li><strong>Etapp 1: Storulvån till Sylarna (cirka 16 km)</strong><br>
+        Vandringen inleds oftast vid Storulvån fjällstation och går sedan mot Sylarna. Denna sträcka präglas av en stegrande spänning i landskapet, där man vandrar genom en relativt lättvandrad terräng innan man närmar sig de majestätiska Sylarna. Sylarna fjällstation, som är målet för denna etapp, ligger vackert vid foten av Sylmassivet.</li>
+    <br><br>
+    <li><strong>Etapp 2: Sylarna till Blåhammaren (cirka 19 km)</strong><br>
+        Andra etappen mot Blåhammaren tar vandrarna över öppna fjäll och genom avlägsna dalar. Den natursköna sträckan erbjuder vidunderliga vyer och det finns också gott om möjligheter att stanna till vid en fjällsjö för en uppfriskande simtur. Ankomsten till Blåhammaren är ofta ett välkommet ögonblick, och fjällstationen är känd för sin utsökta mat, med en meny som inkluderar traditionella svenska rätter med en modern twist.</li>
+    <br><br>
+    <li><strong>Etapp 3: Blåhammaren till Storulvån (cirka 12 km)</strong><br>
+        Den sista etappen tillbaka till Storulvån präglas av en nedåtgående terräng och går genom ett pittoreskt fjällandskap, vilket ofta gör den till en avslappnad avslutning på turen. Med varje steg närmare den ursprungliga startpunkten byggs ofta en känsla av tillfredsställelse över de minnen och upplevelser man samlat på sig under vandringen.</li>
+</ul>
+<br><br>
+
+<p>Överallt på Jämtlandstriangelns leder finner du väl utmärkta stigar och markerade rutter, och övernattningsmöjligheterna på fjällstationerna är bekväma med möjlighet att både laga egen mat eller njuta av stationernas kulinariska utbud.</p>
+
+
+<p>Förutom den fysiska skönheten i landskapet, finns det också en rik kultur och historia att upptäcka i regionen, från det gamla samiska arvet och renskötseln till historierna om fjällens flora och fauna.</p>
+<p>Oavsett om du är en erfaren vandrare eller någon som söker nya äventyr i den svenska fjällvärlden, erbjuder Jämtlandstriangeln en minnesvärd och tillgänglig upplevelse genom några av Sveriges mest ikoniska landskap.</p>
+";"";"Öppen";"Medel";"5";"63.169066325663366, 12.362953539094129";"63.169066325663366, 12.362953539094129";"http://localhost:3001/images/jamtland.jpeg";2;3;47;"STF";12;19
